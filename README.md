@@ -75,17 +75,8 @@ or the corresponding features will not work:
 
 1. Clone the repository
 ```bash
-<<<<<<< Updated upstream
-git clone https://github.com/tachyonbeyond/MiZy-Discord-Bot.git
-cd MiZy-Discord-Bot
-=======
-<<<<<<< HEAD
-git clone https://github.com/tachyonbeyond/MiZy-Discord-Bot.git
-=======
 git clone https://github.com/MustafaYamout/MiZy-Discord-Bot.git
 cd MiZy-Discord-Bot
->>>>>>> f1aa13ab42b74d85b0377717d1257d7749fca779
->>>>>>> Stashed changes
 ```
 2. Rename `.env.example` to `.env` and fill in the required information:
 ```bash
