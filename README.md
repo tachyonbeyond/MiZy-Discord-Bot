@@ -34,7 +34,6 @@
 * [Features](#features)
 * [Requirements](#requirements)
 * [Installation Guide](#installation-guide)
-* [Author](#author)
 * [Contributing](#contributing)
 * [Project Activity](#project-activity)
 * [License](#license)
